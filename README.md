@@ -10,7 +10,6 @@ brew tap mongodb/brew
 From a terminal, issue the following:
 
 brew install mongodb-community@4.0
-
 mongod --config /usr/local/etc/mongod.conf
 
 To starting the service

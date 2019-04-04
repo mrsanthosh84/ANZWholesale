@@ -35,5 +35,5 @@ run the code, Before running make sure your MongoDB service is running an instan
 
 > java Application
 
-I've worte a certain test cases to verify the data has been installed and view accountList and account Transactions list
+I've wrote a certain test cases to verify the data has been inserted and view both accountList and account Transactions list
 

@@ -32,6 +32,7 @@ git clone https://github.com/mrsanthosh84/ANZWholesale.git
 run the code, Before running make sure your MongoDB service is running an instance
 
 javac Application.java
+
 java Application
 
 I've worte a certain test cases to verify the data has been installed and view accountList and account Transactions list
